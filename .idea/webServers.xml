@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6fdd0a1-39b9-44c9-a8b7-ab3c268bdf76" name="sshConfig://dingzhaoyuan@192.168.96.250:22 password/home/dingzhaoyuan/.conda/envs/torch17/bin/python">
+        <fileTransfer accessType="SFTP" host="192.168.96.250" port="22" sshConfigId="387ac76b-af63-456b-8368-2744f442011b" sshConfig="sshConfig://dingzhaoyuan@192.168.96.250:22 password/home/dingzhaoyuan/.conda/envs/torch17/bin/python" />
+      </webServer>
+    </option>
+  </component>
+</project>
